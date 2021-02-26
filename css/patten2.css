@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+
+
+/* background color */
+
+.bg1 {
+    background-color: aquamarine;
+}
+
+.bg2 {
+    background-color: rgb(43, 167, 70);
+}
+
+.bg3 {
+    background-color: rgb(185, 160, 45);
+}
+
+.bg4 {
+    background-color: rgb(50, 79, 173);
+}
+
+.bg5 {
+    background-color: rgb(138, 58, 192);
+}
+
+.bg6 {
+    background-color: rgb(177, 110, 47);
+}
+
+.row {
+    width: 600px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.col {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.circle {
+    width: 200px;
+    border: radius 50% solid darksalmon;
+}
